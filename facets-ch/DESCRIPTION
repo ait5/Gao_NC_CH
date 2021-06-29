@@ -1,4 +1,4 @@
-Package: FACETS-CH
+Package: facetsch
 Type: Package
 Title: Mosaic chromsomal alteration calling from targeted sequencing data
 Version: 0.0.1
